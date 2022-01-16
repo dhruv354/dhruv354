@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-I am Dhruv Singhal, currently a 3rd year undergraudate at IIT KANPUR [LinkedIn]. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. I am primarily really interested in cybersecurity, blockchain and deep learning stuff
+I am Dhruv Singhal, currently a 3rd year undergraudate at IIT KANPUR. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. I am primarily really interested in cybersecurity, blockchain and deep learning stuff
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 <h3>Summary</h3>
@@ -27,28 +27,30 @@ I am Dhruv Singhal, currently a 3rd year undergraudate at IIT KANPUR [LinkedIn].
 
 <h2>🛠Tech Stack</h2>
  
-Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Django](https://img.shields.io/badge/django-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Frameworks, Platforms and Libraries  
-![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+Languages and Frameworks
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-%231572B6.svg?style=for-the-badge&logo=tensorflow&logoColor=yellow)
+![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%23ED8B00.svg?style=for-the-badge&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-6DA55F?style=for-the-badge&logo=django&logoColor=white)
+![Golang](https://img.shields.io/badge/go-%23white.svg?style=for-the-badge&logo=Go&logoColor=blue)
+![Solidity](https://img.shields.io/badge/Solidity-%236DB33F.svg?style=for-the-badge&logo=Solidity&logoColor=white)
+
+Databases
+
+![SQL](https://img.shields.io/badge/sql-1C1E24?style=for-the-badge&logo=sql&logoColor=#D04A37)
+![MongoDb](https://img.shields.io/badge/Mongodb-%23404d59.svg?style=for-the-badge&logo=Mongodb&logoColor=%2361DAFB)
 
 
 
 
 📫Connect with me:
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/dhruv-singhal-57443718b/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/a7a3a310a97948a) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://stackoverflow.com/users/17141012/dhruv-singhal) 
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:dhruv.singhal2612@gmail.com)
+[<img src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-colorized-background-01/linkedin.jpg" height="48" width="48">](https://www.linkedin.com/in/dhruv-singhal-57443718b/) 
+[<img src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-colorized-background-10/twitter.jpg" height="48" width="48">](https://twitter.com/a7a3a310a97948a) 
+[<img src="https://cdn.pixabay.com/photo/2016/03/31/21/18/paperwork-1296324_960_720.png" height="48" width="48">](https://stackoverflow.com/users/17141012/dhruv-singhal) 
+[<img src="https://github.com/bradvin/social-share-urls/blob/master/images/logo-icons-colorized-background-01/gmail.jpg" height="48" width="48">](mailto:dhruv.singhal2612@gmail.com)
 
